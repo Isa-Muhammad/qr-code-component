@@ -25,7 +25,7 @@ Frontend mentor challenge - QR code component
 ### Links
 
 - Solution URL: (https://github.com/Isa-Muhammad/qr-code-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://isa-qrcodechallenge.netlify.app/)
 
 ## My process
 
